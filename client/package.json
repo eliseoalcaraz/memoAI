@@ -24,7 +24,8 @@
     "web-vitals": "^2.1.4"
   },
   "resolutions": {
-    "ajv": "8.0.0"
+    "ajv": "8.0.0",
+     "@types/react": "17.0.80"
   },
   "scripts": {
     "preinstall": "npx npm-force-resolutions",
